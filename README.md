@@ -17,8 +17,3 @@
             <a href="https://t.me/FR_Token" target="_blank">Join the FR-Token Channel</a>
             <a href="https://yourwebsite.com" target="_blank">Visit the FR-Token Website</a>
         </div>
-    </div>
-
-    <script src="script.js"></script>
-</body>
-</html>
